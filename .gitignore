@@ -9,3 +9,5 @@
 
 # JetBrains IDE
 .idea/
+
+target/
