@@ -1,4 +1,4 @@
-package ru.murmeow.lesson1;
+package ru.murmeow.lesson1.data.types;
 public class Test {
 
     int x = 10;
