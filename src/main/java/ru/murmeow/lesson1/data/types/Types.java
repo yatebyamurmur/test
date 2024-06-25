@@ -1,4 +1,4 @@
-package ru.murmeow.lesson1;
+package ru.murmeow.lesson1.data.types;
 
 public class Types {
     public static void main(String[] args) {
@@ -23,5 +23,9 @@ public class Types {
         //4. Строки
         String s = "привет!";
         String newString = new String("Hello!");
+
+        //5. Boolean (истина-ложь)
+        boolean isCorrect = true;
+        boolean isFalse = false;
     }
 }
